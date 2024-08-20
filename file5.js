@@ -1,7 +1,7 @@
 // file5.js
 
 function sumArray(arr) {
-    const sum = 0;  
+    let sum = 0;  
     arr.forEach(num => {
         sum += num;
     });
