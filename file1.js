@@ -1,9 +1,7 @@
 // file1.js
 
 function calculateSum(numbers) {
-    return numbers.reduce((acc, num) => {
-        acc += num;
-    }, 0);
+    return numbers.reduce((acc, num) => acc + num, 0);
 }
 
 const nums = [1, 2, 3, 4, 5];
