@@ -1,0 +1,12 @@
+{
+  "name": "fix-bug",
+  "version": "1.0.0",
+  "description": "This project contains multiple files with buggy code that you'll need to identify and fix.\r ## Instructions",
+  "main": "file1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

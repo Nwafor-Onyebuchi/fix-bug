@@ -1,9 +1,9 @@
 // file2.js
 
 function isEven(number) {
-    if (number % 2 = 0) { 
+    if (number % 2 == 0) { 
         return true;
-    } else {
+    } else{
         return false;
     }
 }
