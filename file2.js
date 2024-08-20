@@ -1,11 +1,7 @@
 // file2.js
 
 function isEven(number) {
-    if (number % 2 = 0) { 
-        return true;
-    } else {
-        return false;
-    }
+  return number % 2 === 0;
 }
 
 console.log("4 is even:", isEven(4)); // Expected output: true, but will log: false
